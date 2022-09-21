@@ -1,3 +1,4 @@
+//written by Ashwin Ram
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         int[] new_array = new int[2];
